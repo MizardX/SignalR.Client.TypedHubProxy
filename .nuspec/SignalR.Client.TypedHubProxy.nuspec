@@ -19,7 +19,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\src\SignalR.Client.TypedHubProxy\bin\Release\SignalR.Client.TypedHubProxy.dll" target="lib\net45\SignalR.Client.TypedHubProxy.dll" />
-    <file src="..\src\SignalR.Client.TypedHubProxy\bin\Release\SignalR.Client.TypedHubProxy.xml" target="lib\net45\SignalR.Client.TypedHubProxy.xml" />
+    <file src="..\src\SignalR.Client.TypedHubProxy\bin\Release\SignalR.Client.TypedHubProxy.dll" target="lib\netstandard2.0\SignalR.Client.TypedHubProxy.dll" />
+    <file src="..\src\SignalR.Client.TypedHubProxy\bin\Release\SignalR.Client.TypedHubProxy.xml" target="lib\netstandard2.0\SignalR.Client.TypedHubProxy.xml" />
   </files>
 </package>
